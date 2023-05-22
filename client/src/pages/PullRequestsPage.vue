@@ -1,7 +1,5 @@
 <template>
-    <h6> This page lists all the pull requests that needs to be reviewed in all the repositories. This page uses using
-        githubs <a href="https://docs.github.com/en/rest/pulls/pulls?apiVersion=2022-11-28#list-pull-requests"
-            target="_blank">List pull requests API</a>.</h6>
+    
     <p class="container-title">Here are Your Open Pull Requests </p>
     
     <div class="row">

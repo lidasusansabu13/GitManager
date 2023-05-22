@@ -1,7 +1,5 @@
 <template>
-    <h6> This page lists all open issues in your repositories. This page uses using githubs <a
-            href="https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#list-issues-assigned-to-the-authenticated-user"
-            target="_blank">List issues assigned to the authenticated user API</a>.</h6>
+    
     <p class="container-title">Here are Your Open Issues </p>
     <div class="row">
         <div class="card">

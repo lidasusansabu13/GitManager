@@ -1,7 +1,5 @@
 <template>
-  <h6> This is the home page. This page displays information about the user using githubs <a
-      href="https://docs.github.com/en/rest/users/users?apiVersion=2022-11-28#get-a-user" target="_blank">get a user
-      API</a>. So this application should have a user Sign in and sign up right ?</h6>
+ 
 
   <div class="card-container">
 
